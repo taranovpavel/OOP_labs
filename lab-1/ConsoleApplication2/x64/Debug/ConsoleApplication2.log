@@ -1,0 +1,13 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (ConsoleApplication2.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  ConsoleApplication2.cpp
+D:\jiza\labs\lab-1\ConsoleApplication2\ConsoleApplication2.cpp(57,62): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+D:\jiza\labs\lab-1\ConsoleApplication2\ConsoleApplication2.cpp(57,62): warning C4267:         with
+D:\jiza\labs\lab-1\ConsoleApplication2\ConsoleApplication2.cpp(57,62): warning C4267:         [
+D:\jiza\labs\lab-1\ConsoleApplication2\ConsoleApplication2.cpp(57,62): warning C4267:             _Ty=int
+D:\jiza\labs\lab-1\ConsoleApplication2\ConsoleApplication2.cpp(57,62): warning C4267:         ]
+D:\jiza\labs\lab-1\ConsoleApplication2\ConsoleApplication2.cpp(58,67): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+D:\jiza\labs\lab-1\ConsoleApplication2\ConsoleApplication2.cpp(58,67): warning C4267:         with
+D:\jiza\labs\lab-1\ConsoleApplication2\ConsoleApplication2.cpp(58,67): warning C4267:         [
+D:\jiza\labs\lab-1\ConsoleApplication2\ConsoleApplication2.cpp(58,67): warning C4267:             _Ty=int
+D:\jiza\labs\lab-1\ConsoleApplication2\ConsoleApplication2.cpp(58,67): warning C4267:         ]
+  ConsoleApplication2.vcxproj -> D:\jiza\labs\lab-1\x64\Debug\Lab1.exe
