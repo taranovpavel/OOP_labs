@@ -1,0 +1,13 @@
+﻿  lab2-2.cpp
+D:\Data\OOP_labs-main\lab-2\lab2-2\lab2-2.cpp(65,58): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+D:\Data\OOP_labs-main\lab-2\lab2-2\lab2-2.cpp(65,58): warning C4267:         with
+D:\Data\OOP_labs-main\lab-2\lab2-2\lab2-2.cpp(65,58): warning C4267:         [
+D:\Data\OOP_labs-main\lab-2\lab2-2\lab2-2.cpp(65,58): warning C4267:             _Ty=int
+D:\Data\OOP_labs-main\lab-2\lab2-2\lab2-2.cpp(65,58): warning C4267:         ]
+D:\Data\OOP_labs-main\lab-2\lab2-2\lab2-2.cpp(66,66): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+D:\Data\OOP_labs-main\lab-2\lab2-2\lab2-2.cpp(66,66): warning C4267:         with
+D:\Data\OOP_labs-main\lab-2\lab2-2\lab2-2.cpp(66,66): warning C4267:         [
+D:\Data\OOP_labs-main\lab-2\lab2-2\lab2-2.cpp(66,66): warning C4267:             _Ty=int
+D:\Data\OOP_labs-main\lab-2\lab2-2\lab2-2.cpp(66,66): warning C4267:         ]
+D:\Data\OOP_labs-main\lab-2\lab2-2\lab2-2.cpp(128,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  lab2-2.vcxproj -> D:\Data\OOP_labs-main\lab-2\lab2-2\x64\Debug\lab2-2.exe
