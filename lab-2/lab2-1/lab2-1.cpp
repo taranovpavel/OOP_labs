@@ -9,13 +9,14 @@ struct Time {
     int minutes;
 };
 class Aeroflot {
-public:
+private:
     int flightNumber;
     string departure;
     string destination;
     Time arrivalTime;
     Time departureTime;
     string registration;
+public:
     void print() const {
         cout << flightNumber << " "
             << destination << " "
